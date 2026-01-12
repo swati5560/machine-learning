@@ -1,0 +1,5 @@
+t1=(0,1,2,3)
+t2=('python','geek')
+t3=(t1,t2)
+print(t3)
+print(t3(-1))
