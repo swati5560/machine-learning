@@ -1,0 +1,2 @@
+Certification in Advanced Machine Learning and Introductory Deep Learning — From Foundations to Practice_Clg_Syllabus
+Python provides built-in functions to handle file operations such as reading from and writing to files. We can use the open() function to work with files.
